@@ -21,11 +21,10 @@
         <TextBlock Background="Aqua" TextAlignment="Center" Text="Kolbász"/>
         <Border Grid.Row="1" Grid.RowSpan="3" Background="#454545">
             <StackPanel>
-                <TextBlock Text="alma"/>
-                <TextBlock Text="körte"/>
-                <TextBlock Text="banán"/>
-                <TextBlock Text="paradicsom"/>
-                <TextBlock Text="paradicsom"/>
+                <TextBlock Text="alma" Padding="2"/>
+                <TextBlock Text="körte" Padding="2"/>
+                <TextBlock Text="banán" Padding="2"/>
+                <TextBlock Text="paradicsom" Padding="2"/>
             </StackPanel>
         </Border>
         <TextBox Grid.Column="1" Background="Red" TextAlignment="Center" Text="Paprika"/>
